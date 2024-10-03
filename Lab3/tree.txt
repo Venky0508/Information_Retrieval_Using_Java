@@ -1,0 +1,49 @@
+Level 0 (Root Node) :
+Term: living  Postings: [4]
+
+Level 1 :
+-------Left Subtree------
+Term: dust  Postings: [4]
+-------Right Subtree------
+Term: she  Postings: [3, 4]
+
+Level 2 :
+-------Left Subtree------
+Term: cast  Postings: [2, 3, 4]
+Term: guess  Postings: [0, 4]
+-------Right Subtree------
+Term: parts  Postings: [1]
+Term: thing  Postings: [1, 2, 3]
+
+Level 3 :
+-------Left Subtree------
+Term: bad  Postings: [0, 3, 4]
+Term: critique  Postings: [0]
+Term: fed  Postings: [0, 2]
+Term: information  Postings: [2]
+-------Right Subtree------
+Term: narrator  Postings: [4]
+Term: realized  Postings: [3]
+Term: states  Postings: [4]
+Term: virus  Postings: [1]
+
+Level 4 :
+-------Left Subtree------
+Term: animated  Postings: [3]
+Term: booby  Postings: [3]
+Term: colorful  Postings: [3]
+Term: didn't  Postings: [0]
+Term: eric  Postings: [3]
+Term: frequent  Postings: [4]
+Term: highway  Postings: [0]
+Term: kayley  Postings: [3]
+-------Right Subtree------
+Term: memorable  Postings: [2]
+Term: offensive  Postings: [4]
+Term: probably  Postings: [3]
+Term: run  Postings: [3]
+Term: something  Postings: [3, 4]
+Term: sutherland  Postings: [1]
+Term: turkey  Postings: [4]
+Term: why  Postings: [1]
+
